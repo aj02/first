@@ -1,1 +1,1 @@
-print "Good Afternoon"
+print "good afternoon"
